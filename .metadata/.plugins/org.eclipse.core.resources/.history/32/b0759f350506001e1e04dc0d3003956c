@@ -1,0 +1,9 @@
+package entidade;
+
+public class PessoaFisica {
+
+	private String cpf;
+	private String numeroConta;
+	
+	
+}

@@ -1,0 +1,8 @@
+package entidade;
+
+public class PessoaJuridica {
+
+	private String cnpj;
+	private String numeroConta;
+	
+}

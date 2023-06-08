@@ -1,0 +1,11 @@
+package entidade;
+
+public abstract class Pessoa {
+
+	private String nome;
+	private String endereco;
+	private String nomeBanco;
+	private String tipoConta; //fisica ou pj
+	
+	
+}
